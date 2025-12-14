@@ -1,5 +1,5 @@
 # personal-easy-demo
-基础简易小项目  
+基础简易小项目 智能客服系统  
 运行根目录run.py即可启动  
 将想要加入知识库的文件加载至data/knowledge_base文件夹中  
 运行date/knowledge_training/knowledge_train.py即可将文件嵌入到redis中（只创建了读取txt文件的方法）  
